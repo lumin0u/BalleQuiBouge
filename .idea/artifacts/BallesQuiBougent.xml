@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BallesQuiBougent">
+    <output-path>$PROJECT_DIR$/classes/artifacts/BallesQuiBougent</output-path>
+    <root id="archive" name="BallesQuiBougent.jar">
+      <element id="module-output" name="BalleQuiBouge" />
+    </root>
+  </artifact>
+</component>
